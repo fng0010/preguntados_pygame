@@ -63,5 +63,10 @@
     "nombre": "pruebazz",
     "puntaje": 2,
     "fecha": "2025-07-11"
+  },
+  {
+    "nombre": "lol",
+    "puntaje": 4,
+    "fecha": "2025-09-01"
   }
 ]
