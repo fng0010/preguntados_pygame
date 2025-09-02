@@ -20,9 +20,9 @@ source venv/bin/activate
 .\venv\Scripts\Activate.ps1
 ```
 
-#### Instalar pygame
+#### Instalar dependencias
 ```bash
-pip install pygame
+pip install -r requirements.txt
 ```
 
 #### Correr el juego
